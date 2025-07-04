@@ -42,10 +42,18 @@ form .field-inner span {
     overflow: hidden;
     position: relative;
 } 
+.banner-two .vid-btn {
+    position: relative;
+    top: -4px;
+    line-height: 24px;
+    left: 20px;
+    padding-left: 70px;
+    padding-top: 15px;
+}
     .banner-two .text-col h1 {
     position: relative;
     color: #101010;
-    text-align: start;
+    text-align: center;
     font-size: 40px;
     font-weight: 600;
     line-height: 1.05em;
