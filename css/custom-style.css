@@ -6,6 +6,27 @@ form .field-inner span {
     left: 6px;
 }
 /* form css end */
+/*new css add start  */
+.banner-two .text-col .inner {
+    position: relative;
+    max-width: 836px;
+    padding-top: 30px;
+    margin: 0 auto;
+    text-align: center;
+}
+.banner-two .text-col .links-box .link {
+    position: relative;
+    /* float: inline-start; */
+    /* margin-right: 44px; */
+    margin: 0 auto;
+    display: contents;
+}
+.banner-two .text-col .text {
+    position: relative;
+    color: #6D747C;
+    max-width: 836px;
+}
+/* new css add end  */
 .banner-two .counter-col {
     position: relative;
     margin-bottom: 30px;
