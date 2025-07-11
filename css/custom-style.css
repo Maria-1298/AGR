@@ -1,12 +1,24 @@
-
+.title-box-two h2:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 106px;
+    margin: 0 auto;
+    border-bottom: 4px solid #48DCA8;
+}
 /* form css start */
 form .field-inner span {
         position: absolute;
-    top: 16px;
-    left: 6px;
+    top: 0px;
+    left: 26px;
 }
 /* form css end */
 /*new css add start  */
+.intro-two .info-block h5 {
+    font-size: 18px;
+}
 .banner-two .text-col .inner {
     position: relative;
     max-width: 836px;
@@ -220,7 +232,8 @@ form .field-inner span {
 .bg-ready-g .inner-second .text {
     color: #000000;
     text-align: start;
-    font-size: 20px;
+    font-size: 22px;
+    padding: 0 26px;
 }
 .why-section-two:before {
     content: '';
@@ -242,7 +255,14 @@ form .field-inner span {
 h1 {
   text-align: center;
 }
-
+/* .why-section-two .container-fluid .row.clearfix:hover {
+    background: rgb(20, 14, 58);
+    color: #fff;
+}
+.why-section-two .container-fluid .row.clearfix:hover .inner-second{
+    background: rgb(20, 14, 58);
+    color: #fff;
+} */
 /* ready to grow section end */
 /* footer css start */
 .footer-widget p {
