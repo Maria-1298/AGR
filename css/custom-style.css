@@ -17,6 +17,9 @@
     border: 1px solid #d3d3d3;
 }
 /* form css start */
+section#intro-section-1 {
+    background: aliceblue;
+}
 form .field-inner span {
         position: absolute;
     top: 0px;
