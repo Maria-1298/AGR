@@ -5,6 +5,9 @@ form .field-inner span {
     top: 16px;
     left: 6px;
 }
+section#intro-section-1 {
+    background: aliceblue;
+}
 /* form css end */
 .banner-two .counter-col {
     position: relative;
